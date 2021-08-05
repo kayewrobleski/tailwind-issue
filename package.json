@@ -1,0 +1,10 @@
+{
+  "name": "tailwind-issue",
+  "version": "1.0.0",
+  "description": "Repo for replicating a Tailwind CSS issue",
+  "devDependencies": {
+    "autoprefixer": "10.3.1",
+    "postcss": "8.3.6",
+    "tailwindcss": "2.2.7"
+  }
+}
