@@ -12,6 +12,7 @@ Some base styles are being added to the Tailwind-generated css file, even though
 git clone https://github.com/kayewrobleski/tailwind-issue.git
 
 # install dependencies
+cd tailwind-issue
 npm install
 
 # build tailwind styles
